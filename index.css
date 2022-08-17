@@ -7,4 +7,24 @@
 }
 .divMagico {
   border-radius: 20px;
+  border: 1px solid black;
+}
+.btnMagico {
+  margin-bottom: 10px;
+  text-decoration: none;
+  padding: 10px;
+  font-family: arial;
+  text-transform: uppercase;
+  padding-left: 1px;
+  padding-right: 1px;
+  font-weight: 800;
+  font-size: 25px;
+  color: black;
+  background-color: #9b0e0e;
+  border-radius: 10px;
+}
+.btnMagico:hover {
+  color: #9b0e0e;
+  background-color: #070707;
+  text-decoration: none;
 }

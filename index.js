@@ -20,9 +20,9 @@ function todoEnUno() {
   let valores = "0123456789ABCDEF";
   let color = "#";
   let vueltas = "";
-  for (let i = 0; i < 100; i++) {
-    width = [Math.floor(Math.random() * 100)] + "vw";
-    height = [Math.floor(Math.random() * 100)] + "vh";
+  for (let i = 0; i < 90; i++) {
+    width = [Math.floor(Math.random() * 90)] + "vw";
+    height = [Math.floor(Math.random() * 90)] + "vh";
   }
   for (let i = 0; i < arrPosiciones.length; i++) {
     posiciones =
