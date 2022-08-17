@@ -1,0 +1,10 @@
+.container {
+  display: flex;
+}
+.divBtn {
+  display: flex;
+  justify-content: center;
+}
+.divMagico {
+  border-radius: 20px;
+}
